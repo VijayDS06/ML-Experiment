@@ -1,0 +1,16 @@
+if (ST_Slope <= 1.5) and (MaxHR <= 150.5) and (Sex > 0.5) then class: 1 (proba: 92.2%) | based on 282 samples
+
+if (ST_Slope > 1.5) and (ChestPainType > 0.5) and (Oldpeak <= 2.2) then class: 0 (proba: 95.31%) | based on 192 samples
+
+if (ST_Slope > 1.5) and (ChestPainType <= 0.5) and (Oldpeak <= 0.4) then class: 0 (proba: 72.06%) | based on 68 samples
+
+if (ST_Slope <= 1.5) and (MaxHR <= 150.5) and (Sex <= 0.5) then class: 1 (proba: 62.79%) | based on 43 samples
+
+if (ST_Slope <= 1.5) and (MaxHR > 150.5) and (ChestPainType > 0.5) then class: 0 (proba: 60.98%) | based on 41 samples
+
+if (ST_Slope > 1.5) and (ChestPainType <= 0.5) and (Oldpeak > 0.4) then class: 1 (proba: 80.56%) | based on 36 samples
+
+if (ST_Slope <= 1.5) and (MaxHR > 150.5) and (ChestPainType <= 0.5) then class: 1 (proba: 79.17%) | based on 24 samples
+
+if (ST_Slope > 1.5) and (ChestPainType > 0.5) and (Oldpeak > 2.2) then class: 1 (proba: 100.0%) | based on 2 samples
+

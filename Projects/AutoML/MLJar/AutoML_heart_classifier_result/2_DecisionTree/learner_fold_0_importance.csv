@@ -1,0 +1,12 @@
+feature,mean_importance
+Age,0.0
+Cholesterol,0.0
+RestingBP,0.0
+FastingBS,0.0
+RestingECG,0.0
+ExerciseAngina,0.0
+Sex,0.03191191983331031
+MaxHR,0.03246353843805551
+ChestPainType,0.08683410698470179
+ST_Slope,0.31977871964206583
+Oldpeak,0.43503580613071524

@@ -1,0 +1,12 @@
+feature,shap_importance
+ST_Slope,1.6154364
+ChestPainType,0.8550181
+Oldpeak,0.47610742
+Sex,0.44691798
+Cholesterol,0.34466344
+MaxHR,0.34108818
+ExerciseAngina,0.33532766
+FastingBS,0.31245622
+Age,0.29191613
+RestingBP,0.20348403
+RestingECG,0.10717094
